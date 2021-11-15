@@ -29,9 +29,9 @@ body{
 
 .header p{
     float: left;
-    margin-top: -25px;
+    margin-top: -22px;
     margin-left: 50px;
-    color: white;
+    color: grey;
     font-size: 14px;
 
 }
